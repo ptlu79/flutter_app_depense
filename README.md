@@ -1,6 +1,8 @@
 # app_depense
 
-A new Flutter project.
+un projet d'application de suivie de dépense quotidienne.
+en cours de realisation
+
 
 ## Getting Started
 
